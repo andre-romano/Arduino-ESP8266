@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ESP8266	KEYWORD1
+
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+connect	KEYWORD2
+start_server KEYWORD2
+stop_server	KEYWORD2
+close_conns	KEYWORD2
+execute	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#NEC	LITERAL1
+
