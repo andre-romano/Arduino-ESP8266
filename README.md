@@ -2,22 +2,18 @@
 
 - [Table of Contents](#table-of-contents)
 - [Description](#description)
-- [Examples](#examples)
-- [Dependencies](#dependencies)
-- [Architecture](#architecture)
+    - [Version](#version)
+- [TODO](#todo)
 
 # Description 
 
 Communicate with the ESP8266 Wifi chip using AT Commands.
 
-# Examples
+## Version
 
-See examples/ folder.
+Alpha (Unstable)
 
-# Dependencies
+# TODO
 
-- [x] SoftwareSerial
+- [ ] Sync AT Commands with Arduino in a non-blocking fashion (Most commands need a specific order of execution)
 
-# Architecture 
-
-All
